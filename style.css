@@ -1,0 +1,44 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body {
+    background-color: #FFEFD5;
+    margin: auto; 
+    padding: 350px;
+}
+
+h1 {
+    padding-bottom: 45px;
+    text-transform: uppercase;
+    font-family: fantasy;
+    padding-left: 10px;
+    color: indianred;
+    font-size: 48px;
+}
+
+p {
+    font-size: 24px;
+    font-family: fantasy;
+    padding-bottom: 30px;
+    color: indianred;
+}
+
+input {
+    width: 380px;
+    height: 50px;
+    font-size: 24px;
+    margin: auto;
+    font-family: fantasy;
+    padding-left: 10px;
+    border: 10px solid indianred;
+}
+
+ul {
+    font-size: 20px;
+    padding-top: 30px;
+    font-family: fantasy;
+    
+}
+
